@@ -1,6 +1,3 @@
----
-typora-root-url: D:\找工作资料\专业资料\java-basic-knowledge\graph
----
 
 ## spring boot2整合kafka遇到Exception thrown when sending a message with key='null'问题
 
@@ -188,7 +185,7 @@ typora-root-url: D:\找工作资料\专业资料\java-basic-knowledge\graph
 
    运行结果：
 
-   ![kafak运行成功](/kafak运行成功.png)
+   ![kafak运行成功](https://github.com/sweetcczhang/springkafka/blob/master/picture/kafak%E8%BF%90%E8%A1%8C%E6%88%90%E5%8A%9F.png)
 
 9. 在开发中遇到的问题。
 
