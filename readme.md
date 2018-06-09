@@ -11,9 +11,7 @@ typora-root-url: D:\找工作资料\专业资料\java-basic-knowledge\graph
 - spring boot2：2.0.2.RELEASE
 - Apache kafka：2.11-1.0.0
 
-2. 项目目录
-
-![kafka目录结构](/kafka目录结构.png)
+![kafka目录结构](https://github.com/sweetcczhang/springkafka/blob/master/picture/kafka%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.png)
 
 3. application.properties文件
 
